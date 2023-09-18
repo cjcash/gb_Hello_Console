@@ -1,0 +1,15 @@
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/bin/Debug/net6.0/Example003_Sam
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/bin/Debug/net6.0/Example003_Sam.deps.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/bin/Debug/net6.0/Example003_Sam.runtimeconfig.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/bin/Debug/net6.0/Example003_Sam.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/bin/Debug/net6.0/Example003_Sam.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.csproj.AssemblyReference.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.AssemblyInfoInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.AssemblyInfo.cs
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.csproj.CoreCompileInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/refint/Example003_Sam.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/Example003_Sam.genruntimeconfig.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example003_Sam/obj/Debug/net6.0/ref/Example003_Sam.dll
