@@ -1,0 +1,15 @@
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.csproj.AssemblyReference.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.AssemblyInfoInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.AssemblyInfo.cs
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.csproj.CoreCompileInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/bin/Debug/net6.0/Example005_ifelse
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/bin/Debug/net6.0/Example005_ifelse.deps.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/bin/Debug/net6.0/Example005_ifelse.runtimeconfig.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/bin/Debug/net6.0/Example005_ifelse.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/bin/Debug/net6.0/Example005_ifelse.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/refint/Example005_ifelse.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/Example005_ifelse.genruntimeconfig.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example005_ifelse/obj/Debug/net6.0/ref/Example005_ifelse.dll
