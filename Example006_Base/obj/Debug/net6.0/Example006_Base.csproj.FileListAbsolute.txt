@@ -1,0 +1,15 @@
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/refint/Example006_Base.dll
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
+/Users/nikolaykotlyar/Documents/gb_csharp/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
